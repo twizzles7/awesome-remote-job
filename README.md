@@ -530,6 +530,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Zamphyr](https://zamphyr.com/) - School 2.0 for learning computer science. Remote-first, 100% JavaScript mostly Meteor.
   1. [Zapier](https://zapier.com/about/)
   1. [ZipRecruiter](https://www.ziprecruiter.com/careers) - Perl/Catalyst shop that has some of the best Perl devs working remotely.
+  1. [The Multiverse AI](https://www.themultiverse.ai) - Professionals AI headshots for remote jobseekers and remote teams.
+     
 
 ## Q&A
   1. Quora: [Telecommuting and Working Remotely](https://www.quora.com/topic/Telecommuting-and-Working-Remotely) / [Virtual Workplace](https://www.quora.com/topic/Virtual-Workplace) / [Working at Home](https://www.quora.com/topic/Working-at-Home)
